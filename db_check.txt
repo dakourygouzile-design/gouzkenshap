@@ -1,0 +1,7 @@
+Database
+gouzkenshap_db
+information_schema
+mysql
+performance_schema
+phpmyadmin
+test
